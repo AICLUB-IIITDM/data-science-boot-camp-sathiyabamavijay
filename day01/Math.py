@@ -1,3 +1,4 @@
 # write a function to implement addition
 def add(a,b):
-    pass
+    c=a+b
+    return c
